@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on building Apartment Agency Website
 - 📫 How to reach me. Please contact to my email - ojarowrahat022@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love chess and fan of Elon Musk!
 
 <!---
 chessmaniak/chessmaniak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
